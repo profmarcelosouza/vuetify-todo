@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkaula_vue_todo"]=self["webpackChunkaula_vue_todo"]||[]).push([[975],{975:function(e,t,u){u.r(t),u.d(t,{default:function(){return c}});var a=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},n=[function(){var e=this,t=e.$createElement,u=e._self._c||t;return u("div",{staticClass:"about"},[u("h1",[e._v("Dashboard Page")])])}],l=u(1001),r={},s=(0,l.Z)(r,a,n,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=975-legacy.8b206043.js.map
