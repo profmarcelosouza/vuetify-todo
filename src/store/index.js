@@ -10,6 +10,7 @@ export default new Vuex.Store({
             { id: "2", title: "Fazer a barba", done: false },
             { id: "3", title: "Almoçar com amigos", done: false },
             { id: "4", title: "Marcar banho para o Pet", done: false },
+            { id: "5", title: "Preparar provas do mês", done: false },
         ]
     },
     getters: {},
